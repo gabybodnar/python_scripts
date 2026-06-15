@@ -1,8 +1,11 @@
 Custom Reaper Actions
+
+
 Descr:
+
 This repository is a collection of Python scripts, that automate repetitive actions I do in Reaper program. It serves the purpose of tracking my progress in
 learning Python.
-Scripts are written with the help of AI. Their functionality is tested in my reaper projects by me.
+
 
 Scripts Overview
 
